@@ -1,5 +1,5 @@
 +-----------------+------------+----------------+
-|    SYSTEM       | COMPATIBLE |     TESTS      |
+|      BOARD      | COMPATIBLE |     TESTS      |
 |                 |            |                |
 +-----------------+------------+----------------+
 | Raspberri Pi    |     Y      |    UNTESTED    |
