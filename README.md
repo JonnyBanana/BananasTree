@@ -2,7 +2,7 @@
 
 </BR>
 
-Various Sketch &amp; Examples for:
+Various Examples for:
 
 </BR>
 
