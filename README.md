@@ -8,6 +8,11 @@ Various Examples for:
 
  :christmas_tree: :christmas_tree: :christmas_tree: Raspberri Pi Programmable Xmas Tree:christmas_tree: :christmas_tree: :christmas_tree: 
  
+ </BR>
+ 
+ https://thepihut.com/products/christmas-tree-programmable-kit
+ 
+ </BR>
  
  ![Alt text](https://raw.githubusercontent.com/JonnyBanana/BananasTree/master/img/TreePinout.jpg)
  
