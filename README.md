@@ -20,7 +20,7 @@ Various Examples for:
 To download the sample code run the following command:
 
 
-`git clone https://github.com/modmypi/Programmable-Xmas-Tree/`
+`git clone https://github.com/modmypi/BananasTree/`
 
 </BR>
 
